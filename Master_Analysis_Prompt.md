@@ -56,7 +56,7 @@ I'm providing you with daily brain dump files from '/Users/Path For Your Vault o
 Create the following folder structure and files in '/Users/Your Folder Goes Here':
 
 **Brain Dump Structure:**
-```
+
 Brain Dump/
 ├── Analysis/                                    (create new folder)
 │   ├── Monthly_Brain_Dump_Analysis.md          (master file with all deliverables)
@@ -85,7 +85,6 @@ Brain Dump/
 │       ├── Connection_Map.md
 │       ├── Timeline_Evolution.md
 │       └── Action_Items_Extracted.md
-```
 
 **FILE CONTENT DISTRIBUTION:**
 - **Master file** contains executive summary of all deliverables with cross-links
