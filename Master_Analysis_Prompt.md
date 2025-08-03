@@ -55,24 +55,29 @@ I'm providing you with daily brain dump files from '/Users/Path For Your Vault o
 
 Create the following folder structure and files in '/Users/Your Folder Goes Here':
 
+**Brain Dump Structure:**
 ```
 Brain Dump/
-├── Analysis/                              (create new folder)
-│   ├── Monthly_Brain_Dump_Analysis.md     (master file with all deliverables)
-│   ├── Weekly_Analysis/                   (create subfolder)
+├── Analysis/                                    (create new folder)
+│   ├── Monthly_Brain_Dump_Analysis.md          (master file with all deliverables)
+│   │
+│   ├── Weekly_Analysis/                         (create subfolder)
 │   │   ├── Week_1_Insights.md
 │   │   ├── Week_2_Insights.md
 │   │   ├── Week_3_Insights.md
 │   │   └── Week_4_Insights.md
-│   ├── Strategic_Overview/                (create subfolder)
+│   │
+│   ├── Strategic_Overview/                      (create subfolder)
 │   │   ├── Monthly_Strategic_Summary.md
 │   │   └── Emotional_Journey_Map.md
-│   ├── Patterns/                          (create subfolder)
+│   │
+│   ├── Patterns/                                (create subfolder)
 │   │   ├── Themes_Breakdown.md
 │   │   ├── Hidden_Patterns.md
 │   │   └── Pattern_Connections.md
-│   └── Knowledge_Graph/                   (create subfolder)
-│       ├── Master_MOC.md
+│   │
+│   └── Knowledge_Graph/                         (create subfolder)
+│       ├── Master_MOC.md                       (Map of Content)
 │       ├── Projects_Index.md
 │       ├── People_Network.md
 │       ├── Concepts_Library.md
